@@ -6,6 +6,6 @@ If you want to share your own work, please send a pull request and I will try to
 
 
 ## Credit for the Jekyll theme used
-I have used Jekyyl Google Material Design Lite theme to create this.
+I have used Jekyll Google Material Design Lite theme to create this.
 You can obtain your copy from their [Github](https://github.com/gdg-managua/jekyll-mdl/) page.
 
