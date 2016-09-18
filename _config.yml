@@ -1,0 +1,23 @@
+title: Proggram
+email: huseyin.ozturk@standout.se
+description: >
+ Small snippets about programming, solutions, software development and management.
+baseurl: ""
+url: "https://proggram.github.io" #
+twitter_username: ""
+github_username:  hsyn
+google_play: ''
+google_plus_com: ''
+google_plus_per: ''
+facebook_app_id:
+
+header_type: default
+post_type: highlight
+pagination_type: default
+
+more_vert:
+
+disqus: true
+disqus_shortname: 'proggram'
+
+markdown: kramdown
