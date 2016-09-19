@@ -21,3 +21,5 @@ disqus: true
 disqus_shortname: 'proggram'
 
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
