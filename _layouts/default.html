@@ -26,6 +26,9 @@
     <script rel="javascript" type="text/javascript" src="{{ "/js/site.js" | prepend: site.baseurl }}"></script>
     {% endif %}
     <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 
 </html>
