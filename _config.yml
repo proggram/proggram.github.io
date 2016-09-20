@@ -21,5 +21,11 @@ disqus: true
 disqus_shortname: 'proggram'
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+highlighter: rouge
 gems:
   - jekyll-seo-tag
+  - jemoji
