@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Which companies are using your email address to adversite to third parties?"
+title:  "Which companies are using your email address to advertise to third parties?"
 date:   2016-09-21 21:17:02
 categories: internet
 author: hsyn
