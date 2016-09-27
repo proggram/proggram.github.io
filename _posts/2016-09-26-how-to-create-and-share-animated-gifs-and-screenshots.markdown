@@ -4,7 +4,7 @@ title:  "How to create and share animated GIF and screenshots"
 date:   2016-09-26 14:45:23
 categories: tools
 author: hsyn
-image: img/fish-shell.png
+image: img/css.gif
 ---
 
 I have 3 main tools when it comes to creating screenshots and animated gif files. Today I would like to share those with you.
